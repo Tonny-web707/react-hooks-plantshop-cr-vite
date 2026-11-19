@@ -1,6 +1,10 @@
 # Plantshop – React Plant Store
 
 A React application for managing a plant shop. Users can view available plants, add new plants, update stock status, and search for plants by name.
+## Application Screenshot
+
+![Plantshop Screenshot](./screenshot.png)
+
 
 ## Demo
 
